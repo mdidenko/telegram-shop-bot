@@ -1,2 +1,3 @@
-# telegram-shop-bot
-Universal shop bot for Telegram
+# Overwiev
+**Universal shop bot for Telegram
+(in developing)**

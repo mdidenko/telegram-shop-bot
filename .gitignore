@@ -1,0 +1,6 @@
+﻿# Visual Studio
+.vs/
+
+# Assembly
+bin/
+obj/
